@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
@@ -31,8 +29,8 @@ export default function Home() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600"> First Website</span>
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Hi, I'm Joshua Quantrill! This is my first website built with Next.js, TypeScript, and Tailwind CSS. 
-              I'm excited to share my journey in web development with you.
+              Hi, I&apos;m Joshua Quantrill! This is my first website built with Next.js, TypeScript, and Tailwind CSS. 
+              I&apos;m excited to share my journey in web development with you.
             </p>
           </div>
           
@@ -61,7 +59,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">About Me</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              I'm passionate about technology and learning new skills. This website represents my first step into the world of web development.
+              I&apos;m passionate about technology and learning new skills. This website represents my first step into the world of web development.
             </p>
           </div>
           
@@ -105,7 +103,7 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">My Projects</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Here are some of the projects I'm working on and planning to build.
+              Here are some of the projects I&apos;m working on and planning to build.
             </p>
           </div>
           
@@ -154,7 +152,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
           <p className="text-lg text-gray-600 mb-8">
-            I'm always interested in new opportunities and collaborations. Feel free to reach out!
+            I&apos;m always interested in new opportunities and collaborations. Feel free to reach out!
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
